@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="changqing@10.10.101.15:22 (2)" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="changqing@10.10.101.15:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/changqing/Video_tag_Paddle" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
